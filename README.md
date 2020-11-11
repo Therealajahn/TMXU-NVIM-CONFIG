@@ -13,5 +13,8 @@ My personal Tmux and NVIM config files
 ### Cancel selection
    Escape
    
-### NVIM Usage 
+# NVIM Usage 
+## Start Bracy (live server)
+ :Bracey
+
 
