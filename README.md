@@ -16,5 +16,11 @@ My personal Tmux and NVIM config files
 # NVIM Usage 
 ## Start Bracy (live server)
  :Bracey
+## Special Bindings
+  ### Insert Mode
+  Space
+  ### Normal Mode
+  (fast) JK
+ 
 
 
