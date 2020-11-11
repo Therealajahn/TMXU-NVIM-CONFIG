@@ -13,5 +13,5 @@ My personal Tmux and NVIM config files
 ### Cancel selection
    Escape
    
- 
+### NVIM Usage 
 
