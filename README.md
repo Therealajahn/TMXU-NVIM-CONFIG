@@ -2,9 +2,9 @@
 My personal Tmux and NVIM config files
 
 # TMUX usage
-Enter Copy Mode:
+## Enter Copy Mode:
  Ctrl+A+{
-Exit:
+## Exit:
  Escape
-Highlight selection:
+## Highlight selection:
  Ctrl+Space 
