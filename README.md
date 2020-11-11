@@ -4,7 +4,7 @@ My personal Tmux and NVIM config files
 # TMUX usage
 ### Enter Copy Mode:
  Ctrl+A+{
-### Cancel Copy Mode
+### Cancel Copy Mode:
     Ctrl+c
 ### Highlight selection:
    Space
