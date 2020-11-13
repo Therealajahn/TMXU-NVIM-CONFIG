@@ -3,24 +3,27 @@ My personal Tmux and NVIM config files
 
 # TMUX usage
 ### Enter Copy Mode:
- Ctrl+A+{
+    Ctrl+A+[
 ### Cancel Copy Mode:
     Ctrl+c
 ### Highlight selection:
-   Space
+    Space
 ### Confirm Selection 
-   Enter   
+    Enter   
 ### Cancel selection
-   Escape
+    Escape
+### Paste
+    Ctrl+A+]
+   
    
 # NVIM Usage 
 ## Start Bracy (live server)
- :Bracey
+    :Bracey
 ## Special Bindings
   ### Insert Mode
-  Space
+     Space
   ### Normal Mode
-  (fast) JK
+     (fast) JK
  
 
 
